@@ -23,14 +23,14 @@ const keshab = {
     name     : "Keshab Sarkar",
     role     : "App Developer & Student",
     location : "Purba Bardhaman, West Bengal, India 🇮🇳",
-    languages: ["বাংলা", "English", "हिन्दी"],
+    languages: ["Bengali", "English", "Hindi"],
     stack    : ["Flutter", "Dart", "TypeScript", "JavaScript"],
     currently: "Building AI-powered mobile & web apps 🤖",
     motto    : "Dream big. Work hard. Stay humble. ✨"
 };
 ```
 
-<sub>❝ বড় স্বপ্ন দেখুন, আরও বড় পরিশ্রম করুন ❞</sub>
+<sub>❝ Dream big. Work even harder. ❞</sub>
 
 </div>
 
