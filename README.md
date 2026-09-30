@@ -9,7 +9,7 @@
 
 <img src="banner.png" alt="Keshab Sarkar — Banner" width="900"/>
 
-### 🇧🇩 *স্বাগতম! আমি পশ্চিমবঙ্গ থেকে — Flutter দিয়ে অ্যাপ বানাই, শিক্ষার্থীদের জন্য।* 🇧🇩
+### 🇮🇳 *Welcome! I'm from West Bengal, India — I build apps with Flutter, for students.* 🇮🇳
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=Keshab1997&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=Keshab1997&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile Views"></a>
