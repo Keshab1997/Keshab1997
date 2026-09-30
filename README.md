@@ -68,7 +68,7 @@ flowchart LR
 <div align="center">
 
 ### 📱 Mobile Development
-<img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="55" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" alt="Flutter"/>
 <img src="https://skillicons.dev/icons?i=dart,kotlin,android,androidstudio" width="230" alt="Dart Kotlin Android"/>
 <img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase"/>
 
