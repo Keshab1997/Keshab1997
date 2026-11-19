@@ -66,12 +66,12 @@
 <img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase"/>
 
 ### 🌐 Web Development
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" alt="JavaScript"/>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript"/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bootstrap,tailwind" width="320" alt="Web Stack"/>
 
 ### 🤖 AI & Tools
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="38" alt="OpenAI"/>
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="38" alt="Gemini"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,linux&theme=dark" width="320" alt="Tools"/>
