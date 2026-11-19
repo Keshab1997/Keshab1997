@@ -29,37 +29,28 @@
 
 <div align="center">
 
-```mermaid
-%%{init: {"flowchart": {"nodeSpacing": 25, "rankSpacing": 55}}}%%
-flowchart LR
-    ME(("🧑‍💻 KESHAB SARKAR"))
-
-    ME --> CW["🚀 Currently Working On"]
-    CW --> CW1[Flutter & Dart Apps]
-    CW --> CW2[AI-Powered Tools]
-    CW --> CW3[Student Education Apps]
-
-    ME --> EX["🏆 Expert In"]
-    EX --> EX1[Flutter App Development]
-    EX --> EX2[Beautiful & Clean UI/UX]
-    EX --> EX3[Firebase-backed Apps]
-
-    ME --> COL["🤝 Looking to Collaborate"]
-    COL --> COL1[Mobile Apps & EdTech]
-    COL --> COL2[AI-powered Tools]
-    COL --> COL3[Open Source Projects]
-
-    ME --> ASK["💬 Ask Me About"]
-    ASK --> ASK1[Flutter / Dart / Android]
-    ASK --> ASK2[Building & Publishing Apps]
-    ASK --> ASK3[Study Tools for Students]
-
-    style ME fill:#123A52,stroke:#22D3EE,stroke-width:2px,color:#F0FCFF
-    style CW fill:#132B3D,stroke:#22D3EE,color:#D7F7FF
-    style EX fill:#132B3D,stroke:#22D3EE,color:#D7F7FF
-    style COL fill:#2A1F47,stroke:#A78BFA,color:#F1EAFF
-    style ASK fill:#123527,stroke:#33D17E,color:#E4FFEF
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Currently Working On</h3>
+      <p>Flutter & Dart Apps<br>AI-Powered Tools<br>Student Education Apps</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Expert In</h3>
+      <p>Flutter App Development<br>Beautiful & Clean UI/UX<br>Firebase-backed Apps</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Looking to Collaborate</h3>
+      <p>Mobile Apps & EdTech<br>AI-powered Tools<br>Open Source Projects</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Ask Me About</h3>
+      <p>Flutter / Dart / Android<br>Building & Publishing Apps<br>Study Tools for Students</p>
+    </td>
+  </tr>
+</table>
 
 <img src="divider.png" width="100%" height="6" alt=""/>
 
