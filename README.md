@@ -1,13 +1,15 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
+[About](#-about-me) · [Projects](#-featured-projects) · [Stack](#️-tech-stack--skills) · [Stats](#-github-stats) · [Connect](#-lets-connect)
+
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> Hi there! I'm <b>Keshab Sarkar</b></h1>
 
-<p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=680&lines=Flutter+App+Developer+%F0%9F%92%99;AI-Powered+App+Builder+%F0%9F%A4%96;Student+%26+Lifelong+Learner+%F0%9F%93%9A;Building+Apps+for+Students+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</p>
 
-<img src="banner.png" alt="Keshab Sarkar — Banner" width="900"/>
+<p>
+  <img src="banner.png" alt="Keshab Sarkar — Banner" width="900"/>
+</p>
 
 ### 🇮🇳 *Welcome! I'm from West Bengal, India — I build apps with Flutter, for students.* 🇮🇳
 
@@ -17,9 +19,9 @@
   <a href="https://github.com/Keshab1997?tab=repositories"><img src="https://img.shields.io/github/stars/Keshab1997?affiliations=OWNER&style=for-the-badge&color=33d17e&label=STARS" alt="Stars"></a>
 </p>
 
-</div>
+<img src="divider.png" width="100%" height="6" alt=""/>
 
----
+</div>
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"/> About Me
 
@@ -52,16 +54,16 @@ flowchart LR
     ASK --> ASK2[Building & Publishing Apps]
     ASK --> ASK3[Study Tools for Students]
 
-    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
-    style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
-    style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
-    style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
-    style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style ME fill:#123A52,stroke:#22D3EE,stroke-width:2px,color:#F0FCFF
+    style CW fill:#132B3D,stroke:#22D3EE,color:#D7F7FF
+    style EX fill:#132B3D,stroke:#22D3EE,color:#D7F7FF
+    style COL fill:#2A1F47,stroke:#A78BFA,color:#F1EAFF
+    style ASK fill:#123527,stroke:#33D17E,color:#E4FFEF
 ```
 
-</div>
+<img src="divider.png" width="100%" height="6" alt=""/>
 
----
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -83,15 +85,15 @@ flowchart LR
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="38" alt="Gemini"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,linux&theme=dark" width="320" alt="Tools"/>
 
-</div>
+<img src="divider.png" width="100%" height="6" alt=""/>
 
----
+</div>
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🗣️ SpeakEasy</h3>
       <p align="center"><b>AI English Speaking Partner</b> — full Flutter app for Bengali speakers: 70+ grammar lessons, AI conversation, listening practice & gamification.</p>
       <p align="center">
@@ -100,7 +102,7 @@ flowchart LR
         <a href="https://github.com/Keshab1997/SpeakEasy"><img src="https://img.shields.io/badge/View-Project-22D3EE?style=flat-square" alt="Link"></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎯 Quizbaaz</h3>
       <p align="center"><b>Premium 3D Gamified Quiz App</b> — chapter question bank, daily live quizzes, champion gifts, streaks & full admin panel.</p>
       <p align="center">
@@ -110,8 +112,9 @@ flowchart LR
       </p>
     </td>
   </tr>
+  <tr><td colspan="2"><img src="divider.png" width="100%" height="6" alt=""></td></tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📸 Docify</h3>
       <p align="center"><b>Photo, PDF & CV Toolkit</b> — resize photos & signatures, compress PDFs, build CVs — all in one Flutter app.</p>
       <p align="center">
@@ -120,7 +123,7 @@ flowchart LR
         <a href="https://github.com/Keshab1997/docify"><img src="https://img.shields.io/badge/View-Project-22D3EE?style=flat-square" alt="Link"></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🧠 KeepIt</h3>
       <p align="center"><b>AI Second Brain & Bookmark Manager</b> — save, organize & rediscover anything with smart AI-powered visual bookmarks.</p>
       <p align="center">
@@ -130,48 +133,57 @@ flowchart LR
       </p>
     </td>
   </tr>
+  <tr><td colspan="2"><img src="divider.png" width="100%" height="6" alt=""></td></tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📚 Study With Keshab</h3>
       <p align="center"><b>বাংলা Study Hub</b> — MCQ quizzes, practice sets, current affairs & CBT exam platform for students.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Web-App-e34f26?style=flat-square&logo=html5&logoColor=white" alt="Web">
         <img src="https://img.shields.io/badge/EdTech-33d17e?style=flat-square" alt="EdTech">
-        <a href="https://github.com/Keshab1997"><img src="https://img.shields.io/badge/View-Projects-22D3EE?style=flat-square" alt="Link"></a>
+        <a href="https://github.com/Keshab1997/Study-With-Keshab"><img src="https://img.shields.io/badge/View-Project-22D3EE?style=flat-square" alt="Link"></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📄 Bangla PDF OCR</h3>
-      <p align="center"><b>বাংলা PDF থেকে টেক্সট</b> — Python tool to extract text from Bangla PDFs — built for real local needs.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Image Scan</h3>
+      <p align="center"><b>AI MCQ Scanner</b> — ছবির প্রশ্ন বাংলায় সমাধান করে — Gemini API-চালিত scanner built for real study needs.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/OCR-8b5cf6?style=flat-square" alt="OCR">
-        <a href="https://github.com/Keshab1997/bangla-pdf-ocr"><img src="https://img.shields.io/badge/View-Project-22D3EE?style=flat-square" alt="Link"></a>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/AI--Powered-8b5cf6?style=flat-square" alt="AI">
+        <a href="https://github.com/Keshab1997/AI-Image-Scan"><img src="https://img.shields.io/badge/View-Project-22D3EE?style=flat-square" alt="Link"></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+
+<img src="divider.png" width="100%" height="6" alt=""/>
+
+</div>
 
 ## 📊 GitHub Stats
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Keshab1997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&ring_color=22D3EE" width="100%" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Keshab1997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&ring_color=22D3EE" width="100%" alt="GitHub Stats">
       <br/>
-      <img src="https://streak-stats.demolab.com?user=Keshab1997&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6E7681" width="100%" alt="Streak Stats"/>
+      <img src="https://streak-stats.demolab.com?user=Keshab1997&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6E7681" width="100%" alt="Streak Stats">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshab1997&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langsCount=8" width="100%" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshab1997&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langsCount=8" width="100%" alt="Top Languages">
     </td>
     <td width="50%" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF"/>
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF">
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+
+<img src="divider.png" width="100%" height="6" alt=""/>
+
+</div>
 
 ## 📈 Activity Graph
 
@@ -179,9 +191,9 @@ flowchart LR
 
 [![Keshab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keshab1997&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&area_color=1B4965&hide_border=true&custom_title=Contribution%20Journey)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+<img src="divider.png" width="100%" height="6" alt=""/>
 
----
+</div>
 
 ## 🎯 Current Focus
 
@@ -190,7 +202,11 @@ flowchart LR
 - **📚 EdTech:** *Study With Keshab* — Bangla learning tools, quizzes & exam practice
 - **🌱 Learning:** Advanced Flutter architecture, animations & clean UI craft
 
----
+<div align="center">
+
+<img src="divider.png" width="100%" height="6" alt=""/>
+
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -204,9 +220,9 @@ flowchart LR
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Keshab1997/Keshab1997/output/github-snake.svg" width="95%">
 </picture>
 
-</div>
+<img src="divider.png" width="100%" height="6" alt=""/>
 
----
+</div>
 
 ## 📫 Let's Connect!
 
@@ -224,6 +240,6 @@ flowchart LR
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:0D1117&height=100&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:0D1117&height=100&section=footer" width="100%" alt="Footer wave">
 
 </div>
