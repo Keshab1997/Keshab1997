@@ -155,16 +155,16 @@
 
 ## 🧰 Flutter App Studio Toolkit
 
-> *Complete 33-repo Flutter ecosystem — from 1-click app creation, CI/CD, and Play Store compliance to Bangla localization, UPI & PDF billing, AI quota/caching, offline-to-cloud sync (Supabase & Firebase), and Play Store launch automation.*
+> *Complete 38-repo Flutter ecosystem — from 1-click app creation, CI/CD, universal UI/UX kits, and Play Store compliance to Bangla localization, UPI & PDF billing, AI quota/caching, offline-to-cloud sync (Supabase & Firebase), and Play Store launch automation.*
 
 <p align="center">
-  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2033%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 33 Flutter Studio repos"></a>
+  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2038%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 38 Flutter Studio repos"></a>
   <a href="https://github.com/Keshab1997/flutter-app-starter/generate"><img src="https://img.shields.io/badge/1--Click%20New%20App-Use%20Template-33D17E?style=for-the-badge&logo=github&logoColor=white" alt="Use flutter-app-starter template"></a>
 </p>
 
 | # | Repository | Category | What It Does |
 | :-: | :--- | :---: | :--- |
-| **01** | [**`flutter-app-starter`**](https://github.com/Keshab1997/flutter-app-starter) | ![Template](https://img.shields.io/badge/Template-33D17E?style=flat-square) | **1-click Flutter GitHub Template** — pre-wires 8 core kits + 1-click presets (`finance_vault`, `scanner_ai`, `quiz_learning`, `cloud_supabase`, `all_kits`) across all 27 companion kits |
+| **01** | [**`flutter-app-starter`**](https://github.com/Keshab1997/flutter-app-starter) | ![Template](https://img.shields.io/badge/Template-33D17E?style=flat-square) | **1-click Flutter GitHub Template** — pre-wires 8 core kits + 1-click presets (`universal_ux`, `finance_vault`, `scanner_ai`, `quiz_learning`, `cloud_supabase`, `all_kits`) across all 32 companion kits |
 | **02** | [**`flutter-builder`**](https://github.com/Keshab1997/flutter-builder) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-02569B?style=flat-square) | **Central CI & Agent Pack** — reusable GitHub Actions workflows, preflight checks, screenshot tooling, kit selection playbook & `sync-pulse-config.py` |
 | **03** | [**`app_pulse_kit`**](https://github.com/Keshab1997/app_pulse_kit) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Remote Control Kit** — zero-cost soft/force updates, maintenance screen, scheduled in-app notices & feature flags (EN/বাংলা UI) |
 | **04** | [**`pulse-control-panel`**](https://github.com/Keshab1997/pulse-control-panel) | ![Web UI](https://img.shields.io/badge/Web%20UI-A78BFA?style=flat-square) | **Single Web Control Panel** — static zero-backend dashboard to manage `pulse.json` across all Flutter apps from one screen |
@@ -194,9 +194,14 @@
 | **28** | [**`smart_supabase_kit`**](https://github.com/Keshab1997/smart_supabase_kit) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square) | **Zero-Gradle Supabase Kit** — Safe-Boot offline fallback, Email/OTP/Guest Auth, PostgREST sync, Play Store account deletion & ready Postgres RLS SQL |
 | **29** | [**`smart_firebase_kit`**](https://github.com/Keshab1997/smart_firebase_kit) | ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square) | **Safe-Boot Firebase Kit** — zero-crash boot without `google-services.json`, Guest → Email `uid` linking, 450-op Firestore batch sync & Play Store account wipe |
 | **30** | [**`smart_game_hud_kit`**](https://github.com/Keshab1997/smart_game_hud_kit) | ![Game Dev](https://img.shields.io/badge/Game%20Dev-E11D48?style=flat-square) | **Casual Game HUD & Revive** — persistent high-score & coin wallet, pause/game-over overlays & 1-per-run rewarded-ad revive controller (EN/বাংলা) |
-| **31** | [**`store_launch_kit`**](https://github.com/Keshab1997/store_launch_kit) | ![Store CLI](https://img.shields.io/badge/Store%20CLI-F97316?style=flat-square) | **Zero-Canva Play Store Pack** — 1-command Feature Graphic (`1024×500`), framed Screenshots (`1080×1920`), `512×512` icon & EN/বাংলা Release Notes |
-| **32** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
-| **33** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
+| **31** | [**`smart_state_views_kit`**](https://github.com/Keshab1997/smart_state_views_kit) | ![UX](https://img.shields.io/badge/UX-6366F1?style=flat-square) | **Async Skeleton, Empty & Retry UI** — `pumpAndSettle`-safe shimmer loader, Material 3 empty states, offline retry & `SmartAsyncStateView` (EN/বাংলা) |
+| **32** | [**`smart_form_inputs_kit`**](https://github.com/Keshab1997/smart_form_inputs_kit) | ![Forms](https://img.shields.io/badge/Forms-0D9488?style=flat-square) | **Bangla-Safe Inputs & Validators** — `০-৯` & `0-9` number/currency parser, India/BD mobile & UPI validators, and quick-chip `SmartAmountField` |
+| **33** | [**`smart_search_filter_kit`**](https://github.com/Keshab1997/smart_search_filter_kit) | ![UX](https://img.shields.io/badge/UX-6366F1?style=flat-square) | **Smart Search & Date Filter Bar** — bidirectional `500` ↔ `৫০০` search matcher, persistent recent chips, date-range strip & sort sheet (EN/বাংলা) |
+| **34** | [**`smart_permission_kit`**](https://github.com/Keshab1997/smart_permission_kit) | ![Compliance](https://img.shields.io/badge/Compliance-14B8A6?style=flat-square) | **Play Store Permission & Recovery** — Prominent Disclosure rationale bottom sheet, permanent-denial App Settings guide & pluggable gateway (EN/বাংলা) |
+| **35** | [**`smart_help_faq_kit`**](https://github.com/Keshab1997/smart_help_faq_kit) | ![Support](https://img.shields.io/badge/Support-0EA5E9?style=flat-square) | **Offline FAQ, Tips & Support Card** — searchable EN/বাংলা FAQ center, dismissible contextual quick-tip coach banners & 1-tap WhatsApp/email support |
+| **36** | [**`store_launch_kit`**](https://github.com/Keshab1997/store_launch_kit) | ![Store CLI](https://img.shields.io/badge/Store%20CLI-F97316?style=flat-square) | **Zero-Canva Play Store Pack** — 1-command Feature Graphic (`1024×500`), framed Screenshots (`1080×1920`), `512×512` icon & EN/বাংলা Release Notes |
+| **37** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
+| **38** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
 
 <div align="center">
 
