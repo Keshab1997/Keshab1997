@@ -1,7 +1,7 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
-[About](#-about-me) · [Projects](#-featured-projects) · [Stack](#️-tech-stack--skills) · [Stats](#-github-stats) · [Connect](#-lets-connect)
+[About](#-about-me) · [Projects](#-featured-projects) · [Flutter Studio](#-flutter-app-studio-toolkit) · [Stack](#️-tech-stack--skills) · [Stats](#-github-stats) · [Connect](#-lets-connect)
 
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> Hi there! I'm <b>Keshab Sarkar</b></h1>
 
@@ -146,6 +146,35 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<img src="divider.png" width="100%" height="6" alt=""/>
+
+</div>
+
+## 🧰 Flutter App Studio Toolkit
+
+> *Complete end-to-end Flutter ecosystem — from 1-click app creation and CI/CD to remote updates, Bangla localization, encrypted backups, OCR + AI failover, and sandbox tooling.*
+
+<p align="center">
+  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2011%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 11 Flutter Studio repos"></a>
+  <a href="https://github.com/Keshab1997/flutter-app-starter/generate"><img src="https://img.shields.io/badge/1--Click%20New%20App-Use%20Template-33D17E?style=for-the-badge&logo=github&logoColor=white" alt="Use flutter-app-starter template"></a>
+</p>
+
+| # | Repository | Category | What It Does |
+| :-: | :--- | :---: | :--- |
+| **01** | [**`flutter-app-starter`**](https://github.com/Keshab1997/flutter-app-starter) | ![Template](https://img.shields.io/badge/Template-33D17E?style=flat-square) | **1-click Flutter GitHub Template** — CI, Agent Pack, signing, brand icons, Privacy Policy, `app_pulse_kit`, `smart_review_feedback` & EN/বাংলা Settings |
+| **02** | [**`flutter-builder`**](https://github.com/Keshab1997/flutter-builder) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-02569B?style=flat-square) | **Central CI & Agent Pack** — reusable GitHub Actions workflows, preflight checks, screenshot tooling & `sync-pulse-config.py` |
+| **03** | [**`app_pulse_kit`**](https://github.com/Keshab1997/app_pulse_kit) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Remote Control Kit** — zero-cost soft/force updates, maintenance screen, scheduled in-app notices & feature flags (EN/বাংলা UI) |
+| **04** | [**`pulse-control-panel`**](https://github.com/Keshab1997/pulse-control-panel) | ![Web UI](https://img.shields.io/badge/Web%20UI-A78BFA?style=flat-square) | **Single Web Control Panel** — static zero-backend dashboard to manage `pulse.json` across all Flutter apps from one screen |
+| **05** | [**`smart_review_feedback`**](https://github.com/Keshab1997/smart_review_feedback) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Smart Rating Gate** — 4–5★ → Play Store In-App Review; 1–3★ → private feedback form with auto device diagnostics (EN/বাংলা) |
+| **06** | [**`bangla_kit`**](https://github.com/Keshab1997/bangla_kit) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Bengali & Indian Toolkit** — zero-dependency `₹`/`৳` Lakh-Crore currency, Bangla digits, number-to-words, Bangla dates & deadline chips |
+| **07** | [**`local_vault_backup`**](https://github.com/Keshab1997/local_vault_backup) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Offline Encrypted Backup** — pure-Dart password encryption, SHA-256 integrity checks, schema migrations & Material 3 EN/বাংলা UI |
+| **08** | [**`smart_ocr_ai_bridge`**](https://github.com/Keshab1997/smart_ocr_ai_bridge) | ![AI + OCR](https://img.shields.io/badge/AI%20%2B%20OCR-8B5CF6?style=flat-square) | **On-Device OCR + AI Bridge** — 5-script ML Kit OCR paired with auto-failover to cut LLM vision token usage by ~90% |
+| **09** | [**`admin_api_key_manager`**](https://github.com/Keshab1997/admin_api_key_manager) | ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square) | **API Key Pool & Failover** — Firestore-backed admin API key rotation with cooldowns, health checks & management UI |
+| **10** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
+| **11** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
 
 <div align="center">
 
