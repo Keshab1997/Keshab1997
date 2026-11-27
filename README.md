@@ -158,7 +158,7 @@
 > *Complete end-to-end Flutter ecosystem — from 1-click app creation and CI/CD to remote updates, Bangla localization, encrypted backups, OCR + AI failover, and sandbox tooling.*
 
 <p align="center">
-  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2011%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 11 Flutter Studio repos"></a>
+  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2012%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 12 Flutter Studio repos"></a>
   <a href="https://github.com/Keshab1997/flutter-app-starter/generate"><img src="https://img.shields.io/badge/1--Click%20New%20App-Use%20Template-33D17E?style=for-the-badge&logo=github&logoColor=white" alt="Use flutter-app-starter template"></a>
 </p>
 
@@ -171,10 +171,11 @@
 | **05** | [**`smart_review_feedback`**](https://github.com/Keshab1997/smart_review_feedback) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Smart Rating Gate** — 4–5★ → Play Store In-App Review; 1–3★ → private feedback form with auto device diagnostics (EN/বাংলা) |
 | **06** | [**`bangla_kit`**](https://github.com/Keshab1997/bangla_kit) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Bengali & Indian Toolkit** — zero-dependency `₹`/`৳` Lakh-Crore currency, Bangla digits, number-to-words, Bangla dates & deadline chips |
 | **07** | [**`local_vault_backup`**](https://github.com/Keshab1997/local_vault_backup) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Offline Encrypted Backup** — pure-Dart password encryption, SHA-256 integrity checks, schema migrations & Material 3 EN/বাংলা UI |
-| **08** | [**`smart_ocr_ai_bridge`**](https://github.com/Keshab1997/smart_ocr_ai_bridge) | ![AI + OCR](https://img.shields.io/badge/AI%20%2B%20OCR-8B5CF6?style=flat-square) | **On-Device OCR + AI Bridge** — 5-script ML Kit OCR paired with auto-failover to cut LLM vision token usage by ~90% |
-| **09** | [**`admin_api_key_manager`**](https://github.com/Keshab1997/admin_api_key_manager) | ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square) | **API Key Pool & Failover** — Firestore-backed admin API key rotation with cooldowns, health checks & management UI |
-| **10** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
-| **11** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
+| **08** | [**`smart_ad_kit`**](https://github.com/Keshab1997/smart_ad_kit) | ![Monetization](https://img.shields.io/badge/Monetization-10B981?style=flat-square) | **Safe AdMob Kit** — automatic debug test IDs, interstitial capping & grace period, adaptive banners, EN/বাংলা rewarded prompts & `app_pulse_kit` kill-switch |
+| **09** | [**`smart_ocr_ai_bridge`**](https://github.com/Keshab1997/smart_ocr_ai_bridge) | ![AI + OCR](https://img.shields.io/badge/AI%20%2B%20OCR-8B5CF6?style=flat-square) | **On-Device OCR + AI Bridge** — 5-script ML Kit OCR paired with auto-failover to cut LLM vision token usage by ~90% |
+| **10** | [**`admin_api_key_manager`**](https://github.com/Keshab1997/admin_api_key_manager) | ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square) | **API Key Pool & Failover** — Firestore-backed admin API key rotation with cooldowns, health checks & management UI |
+| **11** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
+| **12** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
 
 <div align="center">
 
