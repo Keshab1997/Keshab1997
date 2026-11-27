@@ -158,7 +158,7 @@
 > *Complete end-to-end Flutter ecosystem — from 1-click app creation and CI/CD to remote updates, Bangla localization, encrypted backups, OCR + AI failover, and sandbox tooling.*
 
 <p align="center">
-  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2012%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 12 Flutter Studio repos"></a>
+  <a href="https://github.com/Keshab1997?tab=repositories&q=topic%3Aflutter-studio"><img src="https://img.shields.io/badge/Filter%20All%2016%20Repos-topic%3Aflutter--studio-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" alt="Filter all 16 Flutter Studio repos"></a>
   <a href="https://github.com/Keshab1997/flutter-app-starter/generate"><img src="https://img.shields.io/badge/1--Click%20New%20App-Use%20Template-33D17E?style=for-the-badge&logo=github&logoColor=white" alt="Use flutter-app-starter template"></a>
 </p>
 
@@ -172,10 +172,14 @@
 | **06** | [**`bangla_kit`**](https://github.com/Keshab1997/bangla_kit) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Bengali & Indian Toolkit** — zero-dependency `₹`/`৳` Lakh-Crore currency, Bangla digits, number-to-words, Bangla dates & deadline chips |
 | **07** | [**`local_vault_backup`**](https://github.com/Keshab1997/local_vault_backup) | ![Package](https://img.shields.io/badge/Package-22D3EE?style=flat-square) | **Offline Encrypted Backup** — pure-Dart password encryption, SHA-256 integrity checks, schema migrations & Material 3 EN/বাংলা UI |
 | **08** | [**`smart_ad_kit`**](https://github.com/Keshab1997/smart_ad_kit) | ![Monetization](https://img.shields.io/badge/Monetization-10B981?style=flat-square) | **Safe AdMob Kit** — automatic debug test IDs, interstitial capping & grace period, adaptive banners, EN/বাংলা rewarded prompts & `app_pulse_kit` kill-switch |
-| **09** | [**`smart_ocr_ai_bridge`**](https://github.com/Keshab1997/smart_ocr_ai_bridge) | ![AI + OCR](https://img.shields.io/badge/AI%20%2B%20OCR-8B5CF6?style=flat-square) | **On-Device OCR + AI Bridge** — 5-script ML Kit OCR paired with auto-failover to cut LLM vision token usage by ~90% |
-| **10** | [**`admin_api_key_manager`**](https://github.com/Keshab1997/admin_api_key_manager) | ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square) | **API Key Pool & Failover** — Firestore-backed admin API key rotation with cooldowns, health checks & management UI |
-| **11** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
-| **12** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
+| **09** | [**`smart_notify_kit`**](https://github.com/Keshab1997/smart_notify_kit) | ![Retention](https://img.shields.io/badge/Retention-0EA5E9?style=flat-square) | **Reminders & Deadline Alerts** — daily streaks, job/exam deadline alerts, Quiet Hours (11 PM–7 AM), EN/বাংলা permission dialog & `ReminderSettingsTile` |
+| **10** | [**`smart_share_card`**](https://github.com/Keshab1997/smart_share_card) | ![Growth](https://img.shields.io/badge/Growth-EC4899?style=flat-square) | **Viral Branded Share Cards** — zero-dependency 3× PNG export for Quiz Score, Job Alert, Expense Summary & Streak cards with EN/বাংলা captions |
+| **11** | [**`smart_onboarding_kit`**](https://github.com/Keshab1997/smart_onboarding_kit) | ![UX](https://img.shields.io/badge/UX-6366F1?style=flat-square) | **Onboarding & What's New** — live EN/বাংলা language switcher inside Material 3 slides + automatic version-aware release highlights sheet |
+| **12** | [**`store_launch_kit`**](https://github.com/Keshab1997/store_launch_kit) | ![Store CLI](https://img.shields.io/badge/Store%20CLI-F97316?style=flat-square) | **Zero-Canva Play Store Pack** — 1-command Feature Graphic (`1024×500`), framed Screenshots (`1080×1920`), `512×512` icon & EN/বাংলা Release Notes |
+| **13** | [**`smart_ocr_ai_bridge`**](https://github.com/Keshab1997/smart_ocr_ai_bridge) | ![AI + OCR](https://img.shields.io/badge/AI%20%2B%20OCR-8B5CF6?style=flat-square) | **On-Device OCR + AI Bridge** — 5-script ML Kit OCR paired with auto-failover to cut LLM vision token usage by ~90% |
+| **14** | [**`admin_api_key_manager`**](https://github.com/Keshab1997/admin_api_key_manager) | ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square) | **API Key Pool & Failover** — Firestore-backed admin API key rotation with cooldowns, health checks & management UI |
+| **15** | [**`flutter-bootstrap`**](https://github.com/Keshab1997/flutter-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **40s Flutter SDK Setup** — gives any fresh AI-agent sandbox a SHA-256-verified Flutter SDK with zero manual setup |
+| **16** | [**`agent-bootstrap`**](https://github.com/Keshab1997/agent-bootstrap) | ![DevOps](https://img.shields.io/badge/DevOps-64748B?style=flat-square) | **Zero-Secret Agent Pairing** — one-step GitHub OAuth device-flow pairing for AI coding agents |
 
 <div align="center">
 
